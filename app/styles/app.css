@@ -1,0 +1,7 @@
+.jumbotron {
+  background-image: url('https://c2.staticflickr.com/6/5003/5261369198_1f89ce110f_b.jpg');
+  background-size: cover;
+  color: white;
+  text-align: center;
+  height: 350px;
+}
